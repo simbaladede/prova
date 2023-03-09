@@ -1,2 +1,3 @@
 ciao sono simba(locale)
 l'ho fatto da github
+ciao locale2
